@@ -1,128 +1,72 @@
 ---
-author: student name
-title: "Monasteries on the Silk Road Trade Network"
-layout: base
-header-image: images/ota-gate-khiva2.jpg
-thumbnail: images/ota-gate-demo-green.png
-summary: Monasteries were key to the functioning of the Silk Road Trade Network.
+author: Meg Lambert-Malins
+title: "Hostelry along the Silk Road: Comparative Waystation Architecture from Persia to Cairo"
+layout: scrollstory
+header-image: images/caravanseraiwikipediacommons.jpg
+thumbnail: images/caravanseraiwikipediacommons.jpg
+summary: A comparison of four Islamic waystation building types—caravanserai, khan, funduq, and wikala—across the medieval and early modern Silk Road.
+geo: [30.046, 31.260]
+placename: Cairo
+tags:
+  - waystation
+  - silk-road
+  - caravanserai
+  - khan
+  - funduq
+  - wikala
+  - islamic-architecture
+  - hostelry
 ---
 
-# Monasteries: The More Sophisticated Type of Webpage
+## Introduction
 
-This essay demonstrates **intermediate ScrollStory features**—building on what you learned in Seedling by adding scrollyboxes, carousels, and more sophisticated visual storytelling. As you scroll, we'll point out what makes this more advanced than a Seedling essay.
+The "Silk Road" was never one road. It was a network—a shifting mesh of routes linking China to the Mediterranean across thousands of miles of desert, mountain, and sea. Merchants moving goods along these routes needed places to stop, sleep, water their animals, store their wares, and meet other traders. Across the Islamic world between roughly the 11th and 18th centuries, four major building types grew up to serve these needs: the **caravanserai**, the **khan**, the **funduq**, and the **wikala**. Each was a waystation. Each served the same basic function. But each developed its own regional character, shaped by geography, city form, religious endowments, and the politics of the ruler who paid for it.[^1]
 
-**What makes this a "Sapling" essay?** It includes everything from Seedling (headings, images, footnotes, pull quotes) plus immersive components: text overlaying background images, image carousels for comparisons, and more dynamic pacing. This is where ScrollStories start feeling cinematic.
+This exhibit compares four examples, one of each type:
 
-The text below includes both explanations and filler content to show how these components work in practice.
+- **Ribat-i Sharaf** (Iran, 1114 CE)—a caravanserai on the road between Nishapur and Merv
+- **Khan al-Umdan** (Acre, c. 1784 CE)—an Ottoman khan in a Mediterranean port
+- **Funduq al-Najjarin** (Fez, 1711 CE)—a Moroccan funduq in the medina
+- **Wikala of Sultan al-Ghuri** (Cairo, 1504–05 CE)—a late Mamluk commercial hostel
 
+Put together, they show that "Islamic architecture" wasn't a single tradition. It was a set of traditions shaped by local needs, all answering the same old question in different ways: how do you house a stranger?
 
-## Building on Seedling Basics
-{% include images/figure.html
-class="right"
-width="48%"
-caption="Right-aligned images still work exactly like Seedling. You already know this pattern. [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
-image-path="images/ota-gate-khiva2.jpg"
-%}
+## What They All Share
 
-Everything from Seedling still works here: images with captions, footnotes, section headings.[^note1] The Sapling template doesn't replace what you learned—it **adds** to it.
+At the most basic level, every one of these buildings does the same thing. Each has a central courtyard, a ground floor for animals and goods, and upper rooms or stalls for merchants and travelers. Most have a single, defensible main gate and thick outer walls. The courtyard almost always has a water source—a well, a fountain, a pool. This is the common plan behind all four building types. Once you know how to read it, you can walk into buildings across three continents and recognize what you are looking at.
 
-[^note1]:Footnotes continue to work exactly as before. All your Seedling skills carry forward.
+This shared layout isn't an accident. It answers a shared problem. Merchants traveling with valuable goods—silk, spices, dyes, metalwork—needed secure rooms they could lock, stables for pack animals, and a clear separation between their private quarters above and their working space below. A central courtyard made all of that legible at a glance. A single gate made it controllable.
 
-This layered approach is intentional. Master the basics, then add complexity incrementally. You're not learning a whole new system; you're expanding your toolkit with a few powerful new components.[^randomthing]
+## How They Differ
 
-[^randomthing]:Put your source information here.
+The differences come from geography and politics. A rural caravanserai on the Khurasan road in Iran answered different needs than an urban khan in an Ottoman port city. Each type developed its own regional form.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
+**Caravanserais** like Ribat-i Sharaf were often built in open country along major caravan routes. They tended to be large and fortress-like, with heavy outer walls and monumental gates. Ribat-i Sharaf, built under Seljuq patronage in 1114, is a good example: its two courtyards, intricate brick decoration, and *iwans* (vaulted open halls) made it as much a statement of royal power as a functional inn.[^2]
 
+**Khans** like Khan al-Umdan were typically urban. Built inside port cities and market towns across the Levant and Anatolia, they served daily commerce rather than long-distance caravans. Khan al-Umdan, built around 1784 in Acre, sits right by the harbor, and has a large open courtyard surrounded by arcades on granite columns—the columns (*umdan*) give the building its name. Its Ottoman patron wanted a functional commercial building, but also a visible sign of investment in the city.[^3]
 
-## Your First Scrollybox
-Here's what makes Sapling different: keep scrolling and watch what happens next. You're about to see text appear **over** a background image, creating an immersive reading experience.
+**Funduqs** like Funduq al-Najjarin developed across North Africa and the Mediterranean. They often doubled as long-term lodgings and workshop spaces for artisans, not just overnight stops for merchants. Funduq al-Najjarin in Fez, built in 1711 near the carpenters' market, shows the Moroccan version: a tight three-story courtyard covered in carved cedar, plaster stucco, and *zellij* tilework. It's smaller and more decorative than any Persian caravanserai.[^4]
 
-{% include scrollybox/bg.html
-  image-path="images/ota-gate-khiva2.jpg"
-  above-box-space = "100vh"
-  below-box-space = "80vh"
-  box-content=' A sculpture in Khiva offers a romaticized view of the Silk Road trade network.'
-%}
+**Wikalas** like the Wikala of Sultan al-Ghuri are the Cairo form. By the late Mamluk period, Cairo was running out of space, and wikalas were built tall and tight to fit into a dense urban fabric. The Wikala of al-Ghuri (1504–05) has ground-floor warehouses, two upper floors of lodging apartments called *rab'*, and is wedged into the city next to al-Ghuri's own mosque and tomb. Its income paid for that religious complex through a **waqf**, an Islamic charitable endowment—a reminder that these buildings were often tied directly to religion, charity, and dynastic memory.[^5]
 
+## What This Comparison Shows Us
 
-## What Just Happened?
-That was a **scrollybox**—text that appears in a box over a full-screen background image. As you scrolled, the background image stayed fixed while the text box scrolled into view, stayed visible, then scrolled away.
+Side by side, these four buildings push back against any simple picture of "Islamic architecture" or "the Silk Road." They show that hospitality was regional. The fortified stone *ribat* of a Khurasan trade route and the cramped vertical wikala of Mamluk Cairo aren't the same building with different wallpaper. They are separate architectural traditions answering the same underlying problem in ways that made sense locally.
 
-**Why use scrollyboxes?** They create moments of focus and drama. The full-screen image immerses readers in a visual context, while the overlay text provides commentary, quotations, or key points. It's like a visual pause in your narrative.
+They also show that waystations were rarely just practical. Almost every example here was built as part of a political or religious project: Seljuq dynastic legitimacy, Ottoman urban investment, Mamluk waqf endowments, Alawi commercial patronage in Morocco. When a ruler built a caravanserai or a wikala, they were doing more than housing travelers. They were making a statement.
 
-**Technical note:** The `above-box-space` and `below-box-space` parameters control how much blank scroll space appears before and after the text box. Adjust these to control pacing—more space = slower, more contemplative; less space = faster pacing.
-
-
-## Pull Quotes Still Work
-{% include typography/aside.html class="left" text="
-This left-aligned pull quote is the same component you learned in Seedling. Sapling essays can mix scrollyboxes with traditional pull quotes depending on what fits your narrative." %}
-
-Notice how this pull quote appears alongside regular text, while the scrollybox took over the entire screen. Different tools for different purposes:
-
-- **Pull quotes** emphasize key text within ongoing paragraphs
-- **Scrollyboxes** create immersive moments that break away from normal flow
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl. Praesent sed vehicula velit, vel hendrerit neque.
-
-
-## Image Carousels for Comparisons
-Below you'll see an **image carousel**—multiple images you can click through. This is perfect when you want readers to compare several images without cluttering the page.
-
-{% assign images =
-"images/ota-gate-demo-brown.png,
-images/ota-gate-demo-gray.png,
-images/ota-gate-demo-green.png" | split: ','
-%}
-
-{% include images/carousel.html
-id="first"
-images=images
-%}
-
-**Why use carousels?** When you have 3-5 related images (historical documents, different views of a building, a sequence of photos), a carousel lets readers compare them side-by-side without scrolling past each one. Click the arrows or dots to move between images.
-
-**Accessibility note:** Always include captions and source links so screen readers and citations work properly.
-
-
-## Larger Images
-{% include images/figure.html class="right" width="60%" caption="This image is 60% width instead of 48%, giving it more visual weight. Adjust widths based on what the image needs. [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)" image-path="images/ota-gate-khiva2.jpg" %}
-
-Just like in Seedling, you control image sizes with the `width` parameter. A floorplan or map might need 60-70% width to be legible, while a portrait might look better at 40%.
-
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc.
-
-
-## Block Quotes for Primary Sources
-Architectural features of the Ota Darvaza reflect much of the culture of the Silk Road. Random Imaginary Person, a visitor to Khiva, spoke poetically about their experience of the architecture of the gate.
-
-> As I entered the Ota Darvaza, the splendor of the gateway overwhelmed me. [Source](https://en.wikipedia.org/wiki/Ota_Darvaza)
-
-Block quotes span the full text width and are perfect for extended quotations from archival sources, documents, or scholarly works. They're visually distinct from the scrollybox overlays and pull quotes.
-
-
-## What You've Learned in Sapling
-If you can create a Sapling essay, you can:
-
-- **Use scrollyboxes** to overlay text on full-screen background images
-- **Control pacing** with scroll space parameters
-- **Add image carousels** for comparing multiple related images
-- **Mix components** - scrollyboxes, pull quotes, carousels, and standard images in one essay
-- **Create immersive narratives** that feel more like multimedia stories than traditional web pages
-
-**This is enough for most sophisticated digital humanities projects.** The Forest essay adds background switching and side-scrolling for even more cinematic effects, but Sapling gives you all the tools for compelling visual scholarship.
-
-**What makes Sapling different from Seedling?**
-- Background scrollyboxes for immersive text overlays
-- Image carousels for comparing multiple images
-- More sophisticated visual storytelling
-- All Seedling components still work
-
-Ready for even more? Check out the [Forest template](../multilingualism-example-theme/) for advanced features like background switching and side-scrolling.
+Together, the four objects in this exhibit ask us to see the Silk Road not as a single road, but as a long, overlapping network of traders, rulers, and the walls they built to shelter each other.
 
 ---
 
-## Bibliography
+## Notes
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+[^1]: Olivia Remie Constable, *Housing the Stranger in the Mediterranean World: Lodging, Trade, and Travel in Late Antiquity and the Middle Ages* (Cambridge University Press, 2003), 1–10.
+
+[^2]: Robert Hillenbrand, *Islamic Architecture: Form, Function, and Meaning* (Edinburgh University Press, 1994), 333, 338–39, 344–46.
+
+[^3]: Andrew Petersen, *A Gazetteer of Buildings in Muslim Palestine, Part 1*, British Academy Monographs in Archaeology 12 (Oxford University Press, 2001), 87–88.
+
+[^4]: Constable, *Housing the Stranger*, 68–106; Sheila S. Blair and Jonathan M. Bloom, *The Grove Encyclopedia of Islamic Art and Architecture* (Oxford University Press, 2009), s.v. "Funduq."
+
+[^5]: Khaled A. Alhamzah, *Late Mamluk Patronage: Qansuh al-Ghuri's Waqfs and His Foundations in Cairo* (Universal Publishers, 2009), esp. ch. 3; Doris Behrens-Abouseif, *Islamic Architecture in Cairo: An Introduction* (Brill, 1989).
