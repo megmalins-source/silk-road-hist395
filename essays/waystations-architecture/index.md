@@ -63,3 +63,9 @@ None of these buildings served purely practical functions; each was produced wit
 [^7]: Constable, *Housing the Stranger*, 59–60.
 
 [^8]: Constable, *Housing the Stranger*, 42, 53; see also Behrens-Abouseif, *Islamic Architecture in Cairo*, 154.
+
+---
+
+## Image Credits
+
+**Header image:** Caravanserai, Kheirabad, Behbahan, Iran. Photograph by [Photogir](https://commons.wikimedia.org/wiki/user:Photogir), licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons.
