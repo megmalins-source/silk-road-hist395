@@ -2,8 +2,8 @@
 author: Meg Lambert-Malins
 title: "Hostelry along the Silk Road: Comparative Waystation Architecture from Persia to Cairo"
 layout: scrollstory
-header-image: images/caravanserai-wikipedia-commons.jpg
-thumbnail: images/caravanserai-wikipedia-commons.jpg
+header-image: essays/waystations-architecture/images/caravanserai-wikipedia-commons.jpg
+thumbnail: essays/waystations-architecture/images/caravanserai-wikipedia-commons.jpg
 summary: A comparison of four Islamic waystation building types—caravanserai, khan, funduq, and wikala—across the medieval and early modern Silk Road.
 geo: [30.046, 31.260]
 placename: Cairo
