@@ -44,27 +44,23 @@ Set side by side, these four buildings complicate any unified understanding of I
 
 None of these buildings served purely practical functions; each was produced within a specific political or religious project. Seljuq dynastic legitimacy was expressed through the monumental brickwork of Ribat-i Sharaf; Ottoman imperial presence was made visible through Khan al-Umdan; Mamluk commercial endowments tied commerce to religious foundation through al-Ghuri's complex; and Alawi patronage operated within the decorative conventions of the Moroccan medina through Funduq al-Najjarin. Constable shows that this commerce-religion linkage was a structural feature of Islamic waystation architecture rather than an incidental one: revenue-producing institutions, including funduqs and related hostelries, routinely provided "income to a *waqf*, generating funds for a mosque, school, or hospital."[^8] Waystations were thus always more than their functions implied, and read comparatively, the four objects in this exhibit demonstrate that the architectural history of the Silk Road is better understood not as a single road or unified tradition but as a long, overlapping network of regional systems, each shaped by distinct geographic, political, and religious logics and each deserving analysis on its own terms.
 
----
-
 ## Notes
 
-[^1]: Olivia Remie Constable, *Housing the Stranger in the Mediterranean World: Lodging, Trade, and Travel in Late Antiquity and the Middle Ages* (Cambridge University Press, 2003), 88–90.
+**1.** Olivia Remie Constable, *Housing the Stranger in the Mediterranean World: Lodging, Trade, and Travel in Late Antiquity and the Middle Ages* (Cambridge University Press, 2003), 88–90.
 
-[^2]: Constable, *Housing the Stranger*, 88–89, citing Ibn Jubayr.
+**2.** Constable, *Housing the Stranger*, 88–89, citing Ibn Jubayr.
 
-[^3]: Lorenz Korn, "Ribat-i Mahi (Khurasan-i Razavi, Iran): Evidence of a Saljuq Building Inscription," in *Adle Nāmeh: Studies in the Memory of Chahryar Adle*, edited by Alireza Anisi (Tehran: Research Institute for Cultural Heritage and Tourism, 2018), 77–78.
+**3.** Lorenz Korn, "Ribat-i Mahi (Khurasan-i Razavi, Iran): Evidence of a Saljuq Building Inscription," in *Adle Nāmeh: Studies in the Memory of Chahryar Adle*, edited by Alireza Anisi (Tehran: Research Institute for Cultural Heritage and Tourism, 2018), 77–78.
 
-[^4]: Andrew Petersen, *A Gazetteer of Buildings in Muslim Palestine, Part 1*, British Academy Monographs in Archaeology 12 (Oxford University Press, 2001), 87–88.
+**4.** Andrew Petersen, *A Gazetteer of Buildings in Muslim Palestine, Part 1*, British Academy Monographs in Archaeology 12 (Oxford University Press, 2001), 87–88.
 
-[^5]: Constable, *Housing the Stranger*, 59–61, 68–71.
+**5.** Constable, *Housing the Stranger*, 59–61, 68–71.
 
-[^6]: Doris Behrens-Abouseif, *Islamic Architecture in Cairo: An Introduction* (Brill, 1989), 153–154.
+**6.** Doris Behrens-Abouseif, *Islamic Architecture in Cairo: An Introduction* (Brill, 1989), 153–154.
 
-[^7]: Constable, *Housing the Stranger*, 59–60.
+**7.** Constable, *Housing the Stranger*, 59–60.
 
-[^8]: Constable, *Housing the Stranger*, 42, 53; see also Behrens-Abouseif, *Islamic Architecture in Cairo*, 154.
-
----
+**8.** Constable, *Housing the Stranger*, 42, 53; see also Behrens-Abouseif, *Islamic Architecture in Cairo*, 154.
 
 ## Image Credits
 
