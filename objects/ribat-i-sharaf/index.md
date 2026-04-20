@@ -29,9 +29,25 @@ Ribat-i Sharaf addressed one of the most pressing practical problems facing trav
 
 Ribat-i Sharaf is unusual among caravanserais in having not one but two courtyards arranged along its central axis. The outer courtyard served ordinary travelers; the inner, more elaborately decorated courtyard is generally understood to have accommodated royal or official visitors—possibly the Seljuq court itself. Hillenbrand, whose survey of Islamic architecture provides one of the most useful English-language treatments of Ribat-i Sharaf, observes that the building "combines in two separate sections of one building the functions of palace and caravanserai."¹ The inner courtyard contains its own mosque, stables, high-quality accommodation, and a large *iwan* with a domed chamber behind it that likely functioned as an audience hall. Every element is executed with exceptional care, leading Hillenbrand to conclude that the building has "aptly been termed a museum of the decorative (and, one might add, vaulting) techniques known at the time."²
 
+{% include images/figure.html
+  class="right"
+  width="45%"
+  caption="Interior view of a domed chamber in the inner courtyard, looking up at the star-shaped apex of a half-collapsed dome. Photograph by Bernard O'Kane, courtesy of the Fine Arts Library, Harvard College Library."
+  alt-text="Photograph taken from below looking up into the interior of a domed brick chamber, where the collapse of the dome's apex reveals a star-shaped opening to the sky."
+  image-path="images/ribat-i-sharaf-star-atrium.jpg"
+%}
+
 ## Layout and Plan
 
 The caravanserai's plan reflects both its defensive requirements and its dual function. Substantial outer walls surround the rectangular complex, broken by a single monumental entrance portal on the south face. Inside, travelers passed first into the outer courtyard, surrounded on all sides by rooms that could house caravans together with their pack animals—Hillenbrand notes that a caravanserai of this scale could accommodate as many as 400 animals.³ Beyond the outer courtyard lies the inner courtyard, distinguished by its heavier decorative program, its four-iwan configuration, and its dome chambers. The mosque, in the second courtyard, is not a separate building but a space integrated directly into the caravanserai's fabric—signaling that this was as much a royal foundation as a commercial facility.
+
+{% include images/figure.html
+  class="center"
+  width="70%"
+  caption="The two-courtyard plan of Ribat-i Sharaf. Drawing by Navid Jamali for Art and Architecture of the Middle Ages (artofthemiddleages.com)."
+  alt-text="Black-and-white architectural floor plan of Ribat-i Sharaf showing a rectangular caravanserai divided into two courtyards along a central axis, with iwans, stables, and a mosque chamber integrated into the inner courtyard."
+  image-path="images/ribat-i-sharaf-floorplan.jpg"
+%}
 
 ## Dating and Patronage
 
@@ -40,6 +56,15 @@ Ribat-i Sharaf is dated by inscription to 508/1114–15, with a later phase of r
 ## Comparison with Ribat-i Mahi
 
 Situated on the same road as Ribat-i Sharaf but roughly two days' journey closer to Tus, Ribat-i Mahi provides the closest architectural comparison. Though it has long been attributed to the early eleventh century on the basis of a legendary anecdote about Sultan Mahmud of Ghazna, Korn's identification of a Saljuq building inscription on the portal—recorded in a 1893 photograph preserved in the Gulistan Palace Museum in Tehran—confirms that Ribat-i Mahi is roughly contemporary with the first phase of Ribat-i Sharaf.⁶ Both buildings use the same bone-shaped brick motif, the same strapwork patterns, and the same style of carved stucco with dense Kufic inscriptions. These are not isolated monuments but fragments of a coherent architectural program that once populated the Nishapur-to-Marv road. Hillenbrand cautions that such buildings "cannot be understood in isolation, any more than they were built in isolation"—their full context, including supporting buildings along the same route, remains largely lost to us.⁷
+
+
+{% include images/figure.html
+  class="left"
+  width="45%"
+  caption="Interior detail of the mosque in the second courtyard, showing a squinch with carved stuccowork in the domed chamber. Photograph by Bernard O'Kane, courtesy of the Fine Arts Library, Harvard College Library."
+  alt-text="Close-up photograph of carved stucco ornament on a squinch (the architectural element transitioning from a square room to a round dome), showing densely patterned geometric and vegetal decoration inside the mosque of Ribat-i Sharaf."
+  image-path="images/ribat-i-sharaf-mosque-masonry.jpg"
+%}
 
 ## Significance
 
@@ -61,8 +86,11 @@ Ribat-i Sharaf is among the few surviving monuments of Seljuq secular architectu
 
 **7.** Hillenbrand, *Islamic Architecture*, 341.
 
+
 ## Image Credits
 
-**Header image:** Ribat-i Sharaf, exterior view of entrance portal. [Archnet](https://www.archnet.org/sites/3873).
+**Header image:** Ribat-i Sharaf, exterior view of entrance portal. Source: [Archnet](https://www.archnet.org/sites/3873).
 
-*Additional image credits will be added as inline figures are placed.*
+**Floor plan:** Drawing by Navid Jamali for Art and Architecture of the Middle Ages. Source: [artofthemiddleages.com](https://artofthemiddleages.com).
+
+**Star atrium and mosque squinch photographs:** Photographs by Bernard O'Kane. Source: Fine Arts Library, Harvard College Library, via [Archnet](https://www.archnet.org/sites/3873).
