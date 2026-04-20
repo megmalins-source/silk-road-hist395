@@ -88,8 +88,6 @@ Khan al-Umdan stands as a signature example of Ottoman commercial architecture i
 
 ## Image Credits
 
-**Header image:** Khan al-Umdan, wide view of courtyard. Source: [Archnet](https://www.archnet.org/sites/3490?media_content_id=5085). *[Attribution to be updated once confirmed from Archnet metadata.]*
-
-**Main gate and fountain photographs:** Noa Havilio. Source: [Archnet](https://www.archnet.org/sites/3490).
+**Header image, main gate, and fountain photographs:** Noa Havilio. Source: [Archnet](https://www.archnet.org/sites/3490).
 
 **Courtyard photograph:** Maureen Ruddy-Burkhart (2006). Source: [maureenruddyburkhart.com](https://maureenruddyburkhart.com) and [Archnet](https://www.archnet.org/sites/3490).
