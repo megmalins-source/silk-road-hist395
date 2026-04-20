@@ -2,8 +2,8 @@
 author: Meg Lambert-Malins
 title: "Khan al-Umdan: An Ottoman Port Khan in Acre"
 layout: base
-header-image: images/khan-al-umdan-fountain.jpg
-thumbnail: images/khan-al-umdan-fountain.jpg
+header-image: images/khan-al-umdan-header.jpg
+thumbnail: images/khan-al-umdan-header.jpg
 summary: A large two-storey Ottoman khan in the harbor district of Acre, organized around a granite-columned courtyard and built on the remains of a Crusader-era customs house.
 geo: [32.92021305857253, 35.06900540673888]
 placename: Acre (Akko), Israel
