@@ -44,7 +44,7 @@ Khan al-Umdan is a two-storey structure arranged around a rectangular courtyard 
 
 In 1943, the British archaeologist R. W. Hamilton inspected the khan and recorded its condition. His observations, preserved in the Palestine Archaeological Museum archives, describe the colonnaded gallery behind the arcade as containing "a range of big barrel-vaults with high windows in the back wall," with masonry-vaulted stairs leading from the courtyard to the upper floor. The rooms on the upper gallery are small barrel-vaults, and at the southeast corner an L-shaped passage leads to latrines built into the sea wall—a reminder that the building's eastern side opens directly onto the Mediterranean.[^4]
 
-[^4:]:Petersen, *Gazetteer*, 87, citing R. W. Hamilton's 1943 field notes (PAM Hamilton 9.11.43).
+[^4]:Petersen, *Gazetteer*, 87, citing R. W. Hamilton's 1943 field notes (PAM Hamilton 9.11.43).
 
 ## Urban Context and Function
 
