@@ -27,7 +27,11 @@ Ribat-i Sharaf addressed one of the most pressing practical problems facing trav
 
 ## A Royal Caravanserai
 
-Ribat-i Sharaf is unusual among caravanserais in having not one but two courtyards arranged along its central axis. The outer courtyard served ordinary travelers; the inner, more elaborately decorated courtyard is generally understood to have accommodated royal or official visitors—possibly the Seljuq court itself. Hillenbrand, whose survey of Islamic architecture provides one of the most useful English-language treatments of Ribat-i Sharaf, observes that the building "combines in two separate sections of one building the functions of palace and caravanserai."¹ The inner courtyard contains its own mosque, stables, high-quality accommodation, and a large *iwan* with a domed chamber behind it that likely functioned as an audience hall. Every element is executed with exceptional care, leading Hillenbrand to conclude that the building has "aptly been termed a museum of the decorative (and, one might add, vaulting) techniques known at the time."²
+Ribat-i Sharaf is unusual among caravanserais in having not one but two courtyards arranged along its central axis. The outer courtyard served ordinary travelers; the inner, more elaborately decorated courtyard is generally understood to have accommodated royal or official visitors—possibly the Seljuq court itself. Hillenbrand, whose survey of Islamic architecture provides one of the most useful English-language treatments of Ribat-i Sharaf, observes that the building "combines in two separate sections of one building the functions of palace and caravanserai."[^1] The inner courtyard contains its own mosque, stables, high-quality accommodation, and a large *iwan* with a domed chamber behind it that likely functioned as an audience hall. Every element is executed with exceptional care, leading Hillenbrand to conclude that the building has "aptly been termed a museum of the decorative (and, one might add, vaulting) techniques known at the time."²
+
+[^1]:Robert Hillenbrand, *Islamic Architecture: Form, Function, and Meaning* (Edinburgh University Press, 1994), 344.
+
+[^2]:Hillenbrand, *Islamic Architecture*, 344.
 
 {% include images/figure.html
   class="right"
