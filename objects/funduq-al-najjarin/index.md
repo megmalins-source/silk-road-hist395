@@ -23,7 +23,7 @@ tags:
 
 ## Introduction
 
-Funduq al-Najjarin sits in the carpenters’ quarter of the Fez medina (al-najjarin means “the carpenters”). It was built in 1711 under the Alawi sultan Moulay Isma’il, and the work it did was the work funduqs had been doing in Moroccan cities for centuries. Traveling merchants lodged there, stored their goods on the lower floors, and did business alongside the resident artisans of the quarter.[^1] This is a very different kind of building from the fortified caravanserais of rural Khurasan or the port khans of Acre. Instead of sitting on a long-distance route, it is wedged into a dense urban medina, and the architecture follows from that. The footprint is compact — three storeys around a small courtyard — and it carries the full Moroccan decorative vocabulary of carved cedar, sculpted stucco, and zellij tilework.
+Funduq al-Najjarin sits in the carpenters’ quarter of the Fez medina (al-najjarin means “the carpenters”). It was built in 1711 under the Alawi sultan Moulay Isma’il, and the work it did was the work funduqs had been doing in Moroccan cities for centuries. Traveling merchants lodged there, stored their goods on the lower floors, and did business alongside the resident artisans of the quarter.[^1] This is a very different kind of building from the fortified caravanserais of rural Khurasan or the port khans of Acre. Instead of sitting on a long-distance route, it is wedged into a dense urban medina, and the architecture follows from that. The footprint is compact — three stories around a small courtyard — and it displays the full range of Moroccan decorative styles of carved cedar, sculpted stucco, and zellij tilework.
 
 [^1]:Archnet entry for Funduq al-Najjarin, https://www.archnet.org/sites/1397.
 
